@@ -48,6 +48,12 @@ RFC: [Hypertext Transfer Protocol -- HTTP/1.1](https://tools.ietf.org/html/rfc26
 * Response: [Expires](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Expires)
 * Response: [status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
+## Test
+
+In the respository is there a solution called IntegrationTests. This contains two projects, a unittest project and a console application project.
+
+If you run the IntegrationTest-console application while having your webserver running will it run a collection of tests against your webserver, these tests matches the requirements in the assignment.
+
 ## Other 
 
 A bit on [MD5 hashing](https://www.makeuseof.com/tag/md5-hash-stuff-means-technology-explained/)
