@@ -4,7 +4,7 @@ This repository contains an assigment used to teaching Fullstack delvelopers at 
 
 # Assignment
 
-See [Assignment.md](assignment.md)
+See [Assignment.md](Assignment.md)
 
 ## Getting started
 
