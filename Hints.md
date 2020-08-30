@@ -59,4 +59,4 @@ If you run the IntegrationTest-console application while having your webserver r
 A bit on [MD5 hashing](https://www.makeuseof.com/tag/md5-hash-stuff-means-technology-explained/)
 
 ## A bit of comedy
-[The Internet](https://www.youtube.com/watch?v=iDbyYGrswtg)
+[The Internet](https://www.youtube.com/watch?v=iDbyYGrswtg) followed by the [speach about the Internet](https://www.youtube.com/watch?v=Vywf48Dhyns)
