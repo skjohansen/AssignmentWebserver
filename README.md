@@ -1,6 +1,6 @@
 # About
 
-This repository contains what is needed to solve the first assigment in the course "Webbutveckling i ramverket för .NET" ("Webdevelopment with the .NET framework") winter 2018 at [Teknikhögskolan Gothenburg](https://github.com/TeknikhogskolanGothenburg).
+This repository contains an assigment used to teaching Fullstack delvelopers at Teknikhögskolan in Gothenburg, Sweden.
 
 # Assignment
 
@@ -21,7 +21,7 @@ If you get stuck see the [hints](Hints.md)
 You will need the following:
 
 * A [Github account](https://github.com/join), a free personal account is fine
-* Visual Studio 2017 (Community edition is fine).
+* Visual Studio 2019 (Community edition is fine).
 * A git client ([Git](https://git-scm.com/), [GitHub](https://desktop.github.com/), [SourceTree](https://www.sourcetreeapp.com/)), there is also some git support in Visual Studio.
 * [DocFx](https://dotnet.github.io/docfx/index.html)
 
